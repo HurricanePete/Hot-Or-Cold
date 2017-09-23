@@ -1,0 +1,25 @@
+* {
+	margin-bottom: 15px;
+}
+
+hr {
+	width: 25%;
+}
+
+div {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.hot {
+	color: red;
+}
+
+.cold {
+	color: lightblue;
+}
+
+h1 {
+	position: relative;
+	left: 40px;
+}
