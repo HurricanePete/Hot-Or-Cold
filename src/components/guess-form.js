@@ -18,7 +18,7 @@ export default class GuessForm extends React.Component {
 	render() {
 		return(
 			<form className="search-form" onSubmit={(e) => this.onSubmit(e)}>
-				<input type="number" ref={input => this.numberInput = input} />
+				<input type="number" required ref={input => this.numberInput = input} />
 				<button>Guess</button>
 			</form>
 		);

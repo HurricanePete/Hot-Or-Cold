@@ -20,6 +20,6 @@ div {
 }
 
 h1 {
-	position: relative;
-	left: 40px;
+	margin: 0 auto;
+	width: 40%;
 }
