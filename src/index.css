@@ -3,3 +3,11 @@ body {
   padding: 2.5px;
   font-family: sans-serif;
 }
+
+li {
+	list-style: none;
+}
+
+p {
+	font-style: italic;
+}
